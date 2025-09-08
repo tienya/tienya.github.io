@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-00ea6a74","path":"/common/json.html","title":"JSON Parser/Formatter/Prettier Online","lang":"en-US","frontmatter":{"sidebar":false,"pageClass":"full-page","title":"JSON Parser/Formatter/Prettier Online"},"headers":[],"git":{"updatedTime":1757072467000},"filePathRelative":"common/json.md"}');export{e as data};

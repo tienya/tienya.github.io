@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-16976d27","path":"/image/compressor.html","title":"Image compressor, Image minify Online","lang":"en-US","frontmatter":{"sidebar":false,"pageClass":"full-page","title":"Image compressor, Image minify Online"},"headers":[],"git":{"updatedTime":1679395942000},"filePathRelative":"image/compressor.md"}');export{e as data};

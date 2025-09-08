@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-92789a64","path":"/play/js.html","title":"JS/JavaScript Playground Online","lang":"en-US","frontmatter":{"sidebar":false,"pageClass":"full-page full-width","title":"JS/JavaScript Playground Online"},"headers":[],"git":{"updatedTime":1757073399000},"filePathRelative":"play/js.md"}');export{a as data};

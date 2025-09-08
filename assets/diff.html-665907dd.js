@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e534d46e","path":"/common/diff.html","title":"Diff/Compare Editor/Viewer Online","lang":"en-US","frontmatter":{"sidebar":false,"pageClass":"full-page","title":"Diff/Compare Editor/Viewer Online"},"headers":[],"git":{"updatedTime":1757072467000},"filePathRelative":"common/diff.md"}');export{e as data};

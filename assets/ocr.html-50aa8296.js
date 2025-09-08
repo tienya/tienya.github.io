@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1b11efe8","path":"/image/ocr.html","title":"Image to Text, OCR Scanner Online","lang":"en-US","frontmatter":{"sidebar":false,"pageClass":"full-page","title":"Image to Text, OCR Scanner Online"},"headers":[],"git":{"updatedTime":1679395942000},"filePathRelative":"image/ocr.md"}');export{e as data};

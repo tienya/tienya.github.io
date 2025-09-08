@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.60">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <title>My IP Location | Web Tools</title><meta name="description" content="">
+    <link rel="preload" href="/assets/style-f93df019.css" as="style"><link rel="stylesheet" href="/assets/style-f93df019.css">
+    <link rel="modulepreload" href="/assets/app-daed472d.js"><link rel="modulepreload" href="/assets/mermaid-c798b724-509d9c22.js"><link rel="modulepreload" href="/assets/framework-b01e3c2f.js"><link rel="modulepreload" href="/assets/ip.html-eaab4d87.js"><link rel="modulepreload" href="/assets/ip.html-6e3b245a.js"><link rel="prefetch" href="/assets/index.html-a5d367d2.js" as="script"><link rel="prefetch" href="/assets/diff.html-665907dd.js" as="script"><link rel="prefetch" href="/assets/json.html-7063ca8b.js" as="script"><link rel="prefetch" href="/assets/markdown.html-88e56073.js" as="script"><link rel="prefetch" href="/assets/sql.html-c3720845.js" as="script"><link rel="prefetch" href="/assets/barcode.html-a549b532.js" as="script"><link rel="prefetch" href="/assets/password.html-554bd1fa.js" as="script"><link rel="prefetch" href="/assets/qrcode.html-ddc928ab.js" as="script"><link rel="prefetch" href="/assets/js.html-c706b8c6.js" as="script"><link rel="prefetch" href="/assets/compressor.html-4661c6c9.js" as="script"><link rel="prefetch" href="/assets/ocr.html-50aa8296.js" as="script"><link rel="prefetch" href="/assets/404.html-60b35caa.js" as="script"><link rel="prefetch" href="/assets/index.html-4da80b4c.js" as="script"><link rel="prefetch" href="/assets/diff.html-bff8ef30.js" as="script"><link rel="prefetch" href="/assets/json.html-4a7a6073.js" as="script"><link rel="prefetch" href="/assets/markdown.html-84039c50.js" as="script"><link rel="prefetch" href="/assets/sql.html-8757e704.js" as="script"><link rel="prefetch" href="/assets/barcode.html-84549d7b.js" as="script"><link rel="prefetch" href="/assets/password.html-a5ac550d.js" as="script"><link rel="prefetch" href="/assets/qrcode.html-d22bbc0d.js" as="script"><link rel="prefetch" href="/assets/js.html-2f25eb11.js" as="script"><link rel="prefetch" href="/assets/compressor.html-65e52e7c.js" as="script"><link rel="prefetch" href="/assets/ocr.html-e872ab7d.js" as="script"><link rel="prefetch" href="/assets/404.html-aeceae66.js" as="script"><link rel="prefetch" href="/assets/DiffEditor-24bd45ea.js" as="script"><link rel="prefetch" href="/assets/HomeFooter-c19b00c1.js" as="script"><link rel="prefetch" href="/assets/MonacoEditor-04859f6e.js" as="script"><link rel="prefetch" href="/assets/toastr-769485f3.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container no-sidebar"><!--[--><header class="navbar"><div class="toggle-sidebar-button" title="toggle sidebar" aria-expanded="false" role="button" tabindex="0"><div class="icon" aria-hidden="true"><span></span><span></span><span></span></div></div><span><a href="/" class=""><!----><span class="site-name">Web Tools</span></a></span><div class="navbar-items-wrapper" style=""><!--[--><!--]--><nav class="navbar-items can-hide"><!--[--><div class="navbar-item"><a href="/" class="" aria-label="Home"><!--[--><!--]--> Home <!--[--><!--]--></a></div><!--]--></nav><!--[--><!--]--><!----><!----></div></header><!--]--><div class="sidebar-mask"></div><!--[--><aside class="sidebar"><nav class="navbar-items"><!--[--><div class="navbar-item"><a href="/" class="" aria-label="Home"><!--[--><!--]--> Home <!--[--><!--]--></a></div><!--]--></nav><!--[--><!--]--><!----><!--[--><!--]--></aside><!--]--><!--[--><main class="page"><!--[--><!--]--><div class="theme-default-content"><!--[--><!--]--><div><h1 id="my-ip-location" tabindex="-1"><a class="header-anchor" href="#my-ip-location" aria-hidden="true">#</a> My IP Location</h1><!-- <form @submit.prevent>
+  <label for="ip" style="margin-right: 10px;">IP:</label>
+  <input class="form-control" type="text" id="ip" v-model="ip" style="margin-right: 10px;" />
+  <button class="btn" type="submit" :disabled="loading" @click="searchIP">Search</button>
+</form> --><!----><div class="Box" style="margin:20px 0;"><div class="Box-header"><strong>Location Result</strong></div><div class="Box-body"> IP: </div><div class="Box-footer"> Region: </div><div class="Box-footer"> Province: </div><div class="Box-footer"> City: </div><div class="Box-footer"> Latitude: </div><div class="Box-footer"> Longitude: </div></div></div><!--[--><!--]--></div><footer class="page-meta"><!----><div class="meta-item last-updated"><span class="meta-item-label">Last Updated: </span><!----></div><!----></footer><!----><!--[--><!--]--></main><!--]--></div><!----><!--]--></div>
+    <script type="module" src="/assets/app-daed472d.js" defer></script>
+  </body>
+</html>

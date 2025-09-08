@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4c8c8154","path":"/common/sql.html","title":"SQL Formatter/Prettier Online","lang":"en-US","frontmatter":{"sidebar":false,"pageClass":"full-page","title":"SQL Formatter/Prettier Online"},"headers":[],"git":{"updatedTime":1757072467000},"filePathRelative":"common/sql.md"}');export{e as data};

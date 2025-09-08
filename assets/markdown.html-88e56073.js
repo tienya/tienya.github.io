@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-319fb49f","path":"/common/markdown.html","title":"Markdown Editor Online","lang":"en-US","frontmatter":{"title":"Markdown Editor Online","sidebar":false,"pageClass":"full-page full-height"},"headers":[],"git":{"updatedTime":1685676309000},"filePathRelative":"common/markdown.md"}');export{e as data};

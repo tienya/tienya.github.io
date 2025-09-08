@@ -1,0 +1,1 @@
+import{_ as e,p as o,q as t}from"./framework-b01e3c2f.js";const r={},c={id:"footer"};function _(n,s){return o(),t("div",c,"xx")}const f=e(r,[["render",_],["__file","HomeFooter.vue"]]);export{f as default};
