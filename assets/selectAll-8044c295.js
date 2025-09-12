@@ -1,0 +1,1 @@
+import{a6 as t,a7 as n,a8 as o}from"./mermaid-c798b724-95c3f3a8.js";function r(e){return typeof e=="string"?new t([document.querySelectorAll(e)],[document.documentElement]):new t([o(e)],n)}export{r as s};
